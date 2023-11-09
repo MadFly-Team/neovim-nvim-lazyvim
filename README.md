@@ -1,4 +1,4 @@
-# LazyVin setup - changes by Neil Beresford.
+# LazyVim setup - changes by Neil Beresford.
 
 Please look at the following for LazyVim
 
